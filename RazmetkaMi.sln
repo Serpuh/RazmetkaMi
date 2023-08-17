@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RazmetkaMi", "RazmetkaMi.vcxproj", "{7FE41064-5022-364E-A068-20F7CA3F6855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Release2|x64 = Release2|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE41064-5022-364E-A068-20F7CA3F6855}.Debug|x64.ActiveCfg = Debug|x64
+		{7FE41064-5022-364E-A068-20F7CA3F6855}.Debug|x64.Build.0 = Debug|x64
+		{7FE41064-5022-364E-A068-20F7CA3F6855}.Release|x64.ActiveCfg = Release|x64
+		{7FE41064-5022-364E-A068-20F7CA3F6855}.Release|x64.Build.0 = Release|x64
+		{7FE41064-5022-364E-A068-20F7CA3F6855}.Release2|x64.ActiveCfg = Release2|x64
+		{7FE41064-5022-364E-A068-20F7CA3F6855}.Release2|x64.Build.0 = Release2|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7650AE-BC08-40F0-B38E-2942AB3DE93A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pen.ico</file>
+    </qresource>
+</RCC>
